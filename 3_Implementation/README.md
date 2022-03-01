@@ -273,4 +273,5 @@ void put_X_O(char ch,int pos)
     }
     gotoxy(x,y);
     printf("%c",ch);
+    
 }
