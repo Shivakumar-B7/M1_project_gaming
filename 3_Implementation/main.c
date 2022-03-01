@@ -1,5 +1,3 @@
-## Implementation
-
 #include "game_operations.h"
 
 int board[10] = {2,2,2,2,2,2,2,2,2,2};
