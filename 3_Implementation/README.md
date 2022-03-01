@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "game_operations.h"
 
 int board[10] = {2,2,2,2,2,2,2,2,2,2};
@@ -275,3 +276,8 @@ void put_X_O(char ch,int pos)
     printf("%c",ch);
     
 }
+=======
+# Implementation
+
+
+>>>>>>> cdc6e03a3011e1ad98d5b180a59163985119b4da
