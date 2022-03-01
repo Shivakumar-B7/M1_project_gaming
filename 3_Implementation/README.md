@@ -1,5 +1,4 @@
 
-# Implementation
 
 #include "game_operations.h"
 
