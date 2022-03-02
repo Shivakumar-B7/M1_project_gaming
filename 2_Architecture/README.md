@@ -1,11 +1,4 @@
-          ARCHITECTURE
-          
-          
- BEHAVIORAL DIAGRAM
- 
-* USE CASE DIAGRAM
-* ACTIVITY DIAGRAM
-
-STRUCTURE DIAGRAM
-* ARCHITECTUIRE DIAGRAM
-* DATAFLOW DIAGRAM
+     # DESIGN
+     
+     ## Structural Design
+     
